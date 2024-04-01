@@ -26,10 +26,6 @@
       <img
         src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,tailwind,angular,nodejs,express,php,laravel,git,github,linux,mongo,mysql,docker,bootstrap"
       />
-  
-  <img src="[(https://logospng.org/download/laravel/logo-laravel-icon-1024.png)]" alt="laravel" width="70" height="70"/> </a>
-  
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="70" height="70"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="70" height="70"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshpanotra&show_icons=true&locale=en&layout=compact" alt="iamharshpanotra" /></p>
 
