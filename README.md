@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hey There 👋, I'm Harsh Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Developer</h3>
 <img align="right" alt="Code and Chill" width="400" src="https://i.pinimg.com/originals/df/47/ee/df47ee3e5df1f4abcc0766585b493ba3.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamharshpanotra&label=Profile%20views&color=0e75b6&style=flat" alt="iamharshpanotra" /> </p>
