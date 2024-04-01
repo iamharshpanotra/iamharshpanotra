@@ -24,7 +24,7 @@
 <h1 align="center">Languages & Technologies</h1>
     <div align="center">
       <img
-        src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,tailwind,angular,nodejs,express,php,laravel,git,github,linux,mongo,mysql,docker,bootstrap"
+        src="https://skillicons.dev/icons?i=c,cpp,java,javascript,html,css,php,laravel,git,github,mysql,bootstrap"
       />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshpanotra&show_icons=true&locale=en&layout=compact" alt="iamharshpanotra" /></p>
