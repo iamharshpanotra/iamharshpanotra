@@ -1,13 +1,13 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hey There 👋, I'm Harsh Sharma</h1>
-<h3 align="center">A passionate Web Developer</h3>
-<img align="right" alt="Code and Chill" width="400" src="https://i.pinimg.com/originals/df/47/ee/df47ee3e5df1f4abcc0766585b493ba3.jpg">
+<h1 align="center">Bonjour 👋, I'm Harsh Sharma</h1>
+<h3 align="center">It's funny, isn't it?<br>Have a cup of Tea</h3>
 
+<img align="centre" alt="Code and Chill" width="1000" src="https://user-images.githubusercontent.com/84271800/194936626-02de68eb-ce2c-408b-ae0e-4ab6c35e0334.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamharshpanotra&label=Profile%20views&color=0e75b6&style=flat" alt="iamharshpanotra" /> </p>
 
 <p align="left"> <a href="https://twitter.com/iamharshpanotra" target="blank"><img src="https://img.shields.io/twitter/follow/iamharshpanotra?logo=twitter&style=for-the-badge" alt="iamharshpanotra" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently working with **Laravel** and **PHP**
 
 - 📫 How to reach me **panotraharsh5@gmail.com**
 
@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamharshpanotra&show_icons=true&locale=en" alt="iamharshpanotra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamharshpanotra&" alt="iamharshpanotra" /></p>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
