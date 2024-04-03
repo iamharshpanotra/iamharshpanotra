@@ -1,8 +1,14 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Bonjour 👋, I'm Harsh Sharma</h1>
-<h3 align="center">It's funny, isn't it?<br>Have a cup of Tea</h3>
-
 <img align="center" alt="Code and Chill" width="1000" src="https://user-images.githubusercontent.com/84271800/194936626-02de68eb-ce2c-408b-ae0e-4ab6c35e0334.png">
+
+<h1 align="center">Bonjour 👋, I'm Harsh Sharma</h1>
+<h3 align="center">It's funny, isn't it? Have a cup of Tea!</h3>
+
+<p align="center">
+<a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
+    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Software;Web;Frontend;">
+</a>
+</p>
+
 <div>
 <h1 align="center">⚡ Languages & Technologies</h1>
     <div align="center">
