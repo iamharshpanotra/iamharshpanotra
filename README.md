@@ -10,19 +10,18 @@
         src="https://skillicons.dev/icons?i=c,cpp,java,javascript,html,css,php,laravel,git,github,mysql,bootstrap"
       />
     </div>
-    <div>
+    
 <!-- Github Statistics -->
-<h1 align="center">📈 GitHub Statistics</h1>
+<h2 align="center">📈 GitHub Statistics</h2>
 <table>
     <td>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshpanotra&show_icons=true&locale=en&layout=compact" alt="iamharshpanotra" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshpanotra&show_icons=true&locale=en&layout=compact" alt="iamharshpanotra" />
     </td>
     <td>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamharshpanotra&show_icons=true&locale=en" alt="iamharshpanotra"/>
+&nbsp<img src="https://github-readme-stats.vercel.app/api?username=iamharshpanotra&show_icons=true&locale=en" alt="iamharshpanotra"/>
     </td>
     <td>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamharshpanotra&" alt="iamharshpanotra" />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamharshpanotra&" alt="iamharshpanotra" />
     </td>
 </table>
 <h2 align="center">🔗 Connect With Me:</h2>
