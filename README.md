@@ -13,13 +13,18 @@
     <div>
 <!-- Github Statistics -->
 <h1 align="center">📈 GitHub Statistics</h1>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshpanotra&show_icons=true&locale=en&layout=compact" alt="iamharshpanotra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamharshpanotra&show_icons=true&locale=en" alt="iamharshpanotra"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamharshpanotra&" alt="iamharshpanotra" /></p>
+<table>
+    <td>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshpanotra&show_icons=true&locale=en&layout=compact" alt="iamharshpanotra" />
+    </td>
+    <td>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamharshpanotra&show_icons=true&locale=en" alt="iamharshpanotra"/>
+    </td>
+    <td>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamharshpanotra&" alt="iamharshpanotra" />
 </div>
+    </td>
+</table>
 <h2 align="center">🔗 Connect With Me:</h2>
 <p align="center">
 <a href="https://twitter.com/iamharshpanotra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamharshpanotra" height="30" width="40" /></a>
