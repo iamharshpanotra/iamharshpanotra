@@ -9,7 +9,6 @@
 </a>
 </p>
 <div align="center">
-  
 <br>
 <img src = "https://user-images.githubusercontent.com/87887741/138137569-c03af614-7c08-43d8-b2ad-4ea28864022f.gif" width = "100" height = "100">
 <img src="https://user-images.githubusercontent.com/87887741/138171656-80bfc204-e6c3-4a7d-83c2-5c003f671bf3.jpg" width = "100" height = "100">
@@ -47,8 +46,8 @@
 <a href="mailto:panotraharsh5@gmail.com" target="_blank">
 <img align="center" src="https://user-images.githubusercontent.com/91747922/145641534-6a83084f-2982-449d-9b06-64f8ec368f57.png" alt="panotraharsh5@gmail.com" height="30" width="40" />
 </a>
-
 </p>
+
 <!-- Visitor Count -->
 <h2 align = "center">👀Visitor Count<br>
 <img align = "center" src="https://profile-counter.glitch.me/iamharshpanotra/count.svg" />
