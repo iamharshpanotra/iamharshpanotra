@@ -11,7 +11,7 @@
 <div align="center">
 <br>
 <img src = "https://user-images.githubusercontent.com/87887741/138137569-c03af614-7c08-43d8-b2ad-4ea28864022f.gif" width = "100" height = "100">
-<img src="https://user-images.githubusercontent.com/87887741/138171656-80bfc204-e6c3-4a7d-83c2-5c003f671bf3.jpg" width = "100" height = "100">
+
 <br/>
 
 </div>
