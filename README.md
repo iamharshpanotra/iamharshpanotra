@@ -26,13 +26,13 @@
     
 <!-- Github Statistics -->
 <h2 align="center">📈 GitHub Statistics</h2>
-<table>
+<table align = "center">
+    <td>
+<img src="https://github-readme-stats.vercel.app/api?username=iamharshpanotra&show_icons=true&locale=en" alt="iamharshpanotra"/>
+    </td>
     <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshpanotra&show_icons=true&locale=en&layout=compact" alt="iamharshpanotra" />
-    </td>
-    <td>
-&nbsp<img src="https://github-readme-stats.vercel.app/api?username=iamharshpanotra&show_icons=true&locale=en" alt="iamharshpanotra"/>
-    </td>
+        </td>
     <td>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamharshpanotra&" alt="iamharshpanotra" />
     </td>
