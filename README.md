@@ -1,6 +1,6 @@
 <img align="center" alt="Code and Chill" width="1000" src="https://user-images.githubusercontent.com/84271800/194936626-02de68eb-ce2c-408b-ae0e-4ab6c35e0334.png">
 
-<h1 align="center">Bonjour 👋, I'm Harsh Panotra</h1>
+<h1 align="center">Bonjour 👋, I'm Harsh Sharma</h1>
 <h3 align="center">Have a cup of Tea!</h3>
 
 <p align="center">
