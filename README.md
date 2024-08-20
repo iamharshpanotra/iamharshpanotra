@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
-    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Software;Web;Frontend;">
+    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Software;Web;Frontend;Backend;">
 </a>
 </p>
 <div align="center">
