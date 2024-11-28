@@ -20,7 +20,7 @@
 <h1 align="center">⚡ Languages & Technologies</h1>
     <div align="center">
       <img
-        src="https://skillicons.dev/icons?i=c,cpp,java,javascript,html,css,php,git,github,mysql,bootstrap"
+        src="https://skillicons.dev/icons?i=c,cpp,java,javascript,html,css,php,git,github,mysql,bootstrap,cs,dotnet,nodejs,react"
       />
     </div>
     
