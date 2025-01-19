@@ -27,15 +27,16 @@
 <!-- Github Statistics -->
 <h2 align="center">📈 GitHub Statistics</h2>
 <table align = "center">
-    <td>
-<img src="https://github-readme-stats.vercel.app/api?username=iamharshpanotra&show_icons=true&locale=en" alt="iamharshpanotra"/>
-    </td>
-    <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshpanotra&show_icons=true&locale=en&layout=compact" alt="iamharshpanotra" />
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=iamharshpanotra&show_icons=true&locale=en" alt="iamharshpanotra"/>
         </td>
-    <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamharshpanotra&" alt="iamharshpanotra" />
-    </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshpanotra&show_icons=true&locale=en&layout=compact" alt="iamharshpanotra" />
+        </td>
+    </tr>
 </table>
 <h2 align="center">🔗 Connect With Me:</h2>
 <p align="center">
