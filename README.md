@@ -1,58 +1,64 @@
 <img align="center" alt="Code and Chill" width="1000" src="https://user-images.githubusercontent.com/84271800/194936626-02de68eb-ce2c-408b-ae0e-4ab6c35e0334.png">
 
 <h1 align="center">Bonjour 👋, I'm Harsh Sharma</h1>
-<h3 align="center">Have a cup of Coffee!</h3>
+<h3 align="center">Let's Code with A cup of Coffee!☕</h3>
 
 <p align="center">
 <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
-    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Software;Web;Frontend;Backend;">
+    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Web+Developer;Frontend+Enthusiast;Backend+Explorer;">
 </a>
 </p>
+
 <div align="center">
 <br>
-<img src = "https://user-images.githubusercontent.com/87887741/138137569-c03af614-7c08-43d8-b2ad-4ea28864022f.gif" width = "100" height = "100">
-
-<br/>
-
+<img src="https://user-images.githubusercontent.com/87887741/138137569-c03af614-7c08-43d8-b2ad-4ea28864022f.gif" width="120" height="120" alt="Animated Coffee Mug">
+<br>
 </div>
 
-<div>
-<h1 align="center">⚡ Languages & Technologies</h1>
-    <div align="center">
-      <img
-        src="https://skillicons.dev/icons?i=c,cpp,java,javascript,html,css,php,git,github,mysql,bootstrap,cs,dotnet,nodejs,react"
-      />
-    </div>
-    
-<!-- Github Statistics -->
-<h2 align="center">📈 GitHub Statistics</h2>
-<table align = "center">
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=iamharshpanotra&show_icons=true&locale=en" alt="iamharshpanotra"/>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshpanotra&show_icons=true&locale=en&layout=compact" alt="iamharshpanotra" />
-        </td>
-    </tr>
-</table>
-<h2 align="center">🔗 Connect With Me:</h2>
-<p align="center">
-<a href="https://x.com/iamharshpanotra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamharshpanotra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iamharshpanotra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamharshpanotra" height="30" width="40" /></a>
-<a href="https://instagram.com/iamharshpanotra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamharshpanotra" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/iamharshpanotra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamharshpanotra" height="30" width="40" /></a>
-<a href="https://www.snapchat.com/iamharshpanotra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="iamharshpanotra" height="30" width="40" /></a>
-<a href="mailto:panotraharsh5@gmail.com" target="_blank">
-<img align="center" src="https://user-images.githubusercontent.com/91747922/145641534-6a83084f-2982-449d-9b06-64f8ec368f57.png" alt="panotraharsh5@gmail.com" height="30" width="40" />
-</a>
-</p>
+---
 
-<!-- Visitor Count -->
-<h2 align = "center">👀Visitor Count<br>
-<img align = "center" src="https://profile-counter.glitch.me/iamharshpanotra/count.svg" />
-</h2>
+### ⚡ Languages & Technologies
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,html,css,php,cs,dotnet,nodejs,react,git,github,mysql,bootstrap" alt="Skills" />
+</div>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+---
+
+### 📈 GitHub Statistics
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=iamharshpanotra&show_icons=true&theme=radical" alt="GitHub Stats" width="400px"/>
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshpanotra&show_icons=true&layout=compact&theme=radical" alt="Top Languages" width="400px"/>
+</div>
+
+---
+
+### 🌍 Visitor Count:
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=iamharshpanotra&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Count"/>
+</div>
+
+---
+
+### 🔗 Connect With Me:
+<div align="center">
+    <a href="https://x.com/iamharshpanotra" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/iamharshpanotra" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+    <a href="https://instagram.com/iamharshpanotra" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/iamharshpanotra" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+    <a href="https://www.snapchat.com/iamharshpanotra" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="Snapchat" height="30" width="40" /></a>
+    <a href="mailto:panotraharsh5@gmail.com" target="_blank">
+        <img src="https://user-images.githubusercontent.com/91747922/145641534-6a83084f-2982-449d-9b06-64f8ec368f57.png" alt="Email" height="30" width="40" />
+    </a>
+</div>
+
+---
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&width=800&lines=Thank+You+for+Visiting!;Keep+Exploring,+Keep+Learning+🚀;Let's+Build+Something+Awesome+Together!;⭐+Don't+forget+to+star+my+repos+⭐" alt="Bottom Header Typing Animation"/>
+    <br><br>
+    <img src="https://github.com/harshpanotra/harshpanotra/raw/main/assets/divider.gif" alt="Divider" width="800"/>
+    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Stylish Bottom Header" width="800"/>
+    <h3>Made with ❤️ by Harsh Sharma</h3>
+</div>
