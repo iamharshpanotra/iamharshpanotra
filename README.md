@@ -31,13 +31,22 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshpanotra&show_icons=true&layout=compact&theme=radical" alt="Top Languages" width="400px"/>
 </div>
-
----
+<div align="center">
+   <img src="https://streak-stats.demolab.com/?user=iamharshpanotra&theme=radical" alt="GitHub Streak Stats" width="400px"/>
+</div>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWhiteWeb&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" width="800px"/>
+</div>
 
 ### 🌍 Visitor Count:
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=iamharshpanotra&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Count"/>
+    <img src="https://komarev.com/ghpvc/?username=iamharshpanotra&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Visitor Count"/>
+    <br>
+    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&width=400&lines=Welcome,+Visitor!;Thanks+for+Stopping+By!;You+are+Awesome+🚀" alt="Typing Animation"/>
 </div>
+
+
+
 
 ---
 
