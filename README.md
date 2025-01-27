@@ -34,9 +34,9 @@
 <div align="center">
    <img src="https://streak-stats.demolab.com/?user=iamharshpanotra&theme=radical" alt="GitHub Streak Stats" width="400px"/>
 </div>
-<div align="center">
+<!-- <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWhiteWeb&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" width="800px"/>
-</div>
+</div> -->
 
 ### 🌍 Visitor Count:
 <div align="center">
