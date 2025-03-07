@@ -19,7 +19,7 @@
 
 ### ⚡ Languages & Technologies
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,html,css,php,cs,dotnet,nodejs,react,git,github,mysql,bootstrap" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,html,css,cs,dotnet,react,git,github,mysql" alt="Skills" />
 </div>
 
 ---
